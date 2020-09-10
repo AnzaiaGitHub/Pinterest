@@ -14,11 +14,11 @@
 /*Barra de navegación*/
 	.resp-navbar{
 		opacity: 0;
+		display:none;
 		position: fixed;
 		top: 0;
 		width: 100%;
 		background-color:white;
-		display: flex;
 		flex-direction: column;
 		align-items: center;
 		z-index: 10;
@@ -395,6 +395,7 @@
 		opacity: 0;
 	}
 	.resp-navbar{
+		display: flex;
 		opacity: 1;
 	}
 	.pagecontent{
@@ -409,6 +410,7 @@
 		opacity: 0;
 	}
 	.resp-navbar{
+		display: flex;
 		opacity: 1;
 	}
 	.pagecontent{
@@ -423,6 +425,7 @@
 		opacity: 0;
 	}
 	.resp-navbar{
+		display: flex;
 		opacity: 1;
 	}
 	.pagecontent{
@@ -437,6 +440,7 @@
 		opacity: 0;
 	}
 	.resp-navbar{
+		display: flex;
 		opacity: 1;
 	}
 	.pagecontent{
@@ -450,6 +454,7 @@
 		opacity: 0;
 	}
 	.resp-navbar{
+		display: flex;
 		opacity: 1;
 	}
 	.pagecontent{
@@ -462,6 +467,7 @@
 		opacity: 0;
 	}
 	.resp-navbar{
+		display: flex;
 		opacity: 1;
 	}
 	.pagecontent{
